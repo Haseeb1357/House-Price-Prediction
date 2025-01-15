@@ -1,2 +1,2 @@
-# Regression
-A collection of various regression models implemented in Python, including Linear Regression, Polynomial Regression, Decision Trees, Random Forests, Support Vector Machines, and more. This repository provides a comprehensive overview of different regression techniques and their applications on real-world datasets.
+# House Price Prediction
+A machine learning model for predicting house prices based on various features such as location, size, number of rooms, and more. The model uses regression techniques to analyze the relationships between the features and the target variable, providing accurate price predictions for real estate properties.
